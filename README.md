@@ -16,9 +16,11 @@ https://cs231n.github.io/assignments2024/assignment1/
 课程视频我结合了2017（b站）和2019（youtube）年的视频，链接如下：
 https://www.bilibili.com/video/BV1nJ411z7fe/?spm_id_from=333.337.search-card.all.click&vd_source=fe7121321d95c24c1b3a52df81172aea
 https://www.youtube.com/watch?v=dJYGatp4SvA&list=PL5-TkQAfAZFbzxjBHtzdVCWE0Zbhomg7r&index=1
+
 b站的视频翻译有时候是机翻，听起来有点云里雾里，对于19年视频我用了edge的沉浸式翻译插件结合英文字幕，整体还算舒适
 24年课程链接如下：
 https://cs231n.stanford.edu/
+
 课程网站给出了最新年份的每节课的ppt（遗憾的是最新年份video只有斯坦福学生才能使用），并且还有非常详尽课程笔记和丰富的阅读材料
 我是先看video然后再看看新版ppt，大体上新版没有太大变化
 课程作业主要就是熟悉一些基本的机器学习内容以及深度学习的框架加上熟悉pytorch和tensorflow，刚开始会比较蒙，后面就逐渐清晰怎么做了
