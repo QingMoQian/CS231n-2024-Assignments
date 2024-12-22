@@ -5,18 +5,15 @@ I started learning this course at the end of September and have successfully com
 
 ### 24年课程链接(Links to CS231n-2024)
 - [https://cs231n.stanford.edu/](https://cs231n.stanford.edu/)
-- [https://cs231n.stanford.edu/](https://cs231n.stanford.edu/)
 
 ### 解决方案链接(Links to solutions)
 鉴于作业文件体积较大，不便于直接上传，在此为大家提供解决方案的链接：
 Since the assignment files are relatively large and not convenient to upload directly, here is the link to the solutions for you:
 - [https://drive.google.com/drive/folders/1nqAFioCTnVXYefqvg7JFJ5GbfX9Zv5L0?usp=sharing](https://drive.google.com/drive/folders/1nqAFioCTnVXYefqvg7JFJ5GbfX9Zv5L0?usp=sharing)
-- [https://drive.google.com/drive/folders/1nqAFioCTnVXYefqvg7JFJ5GbfX9Zv5L0?usp=sharing](https://drive.google.com/drive/folders/1nqAFioCTnVXYefqvg7JFJ5GbfX9Zv5L0?usp=sharing)
 
 ### 配置(Configuration)
 作业是借助Google云完成的，关于Google云的具体配置等问题，请前往原课程网站查询：
 The assignments were completed with the help of Google Cloud. For specific configuration issues of Google Cloud, please refer to the original course website:
-- [https://cs231n.github.io/assignments2024/assignment1/](https://cs231n.github.io/assignments2024/assignment1/)
 - [https://cs231n.github.io/assignments2024/assignment1/](https://cs231n.github.io/assignments2024/assignment1/)
 每次作业的配置步骤较为相似，成功配置一次后，后续操作便会得心应手。
 The configuration steps for each assignment are relatively similar. Once you have successfully configured it once, the subsequent operations will become easier.
@@ -24,21 +21,19 @@ The configuration steps for each assignment are relatively similar. Once you hav
 When using Google Cloud, please note that you should only enable GPU operation when necessary (the free usage quota of GPU is limited, and the specific daily free duration or usage amount is not clear, but it will be refreshed the next day. It should be noted that enabling GPU is only useful when completing assignments related to PyTorch and TensorFlow, and there will be corresponding prompts in the assignments).
 
 ### 学习经验分享(Learning experience sharing)
-1. **课程视频**：(Lecture videos)
+1. **课程视频(Lecture videos)**：
     - 学习过程中，我结合观看了2017年（在b站）和2019年（在youtube）的课程视频，以下是具体链接：
 During the learning process, I combined and watched the course videos of 2017 (on Bilibili) and 2019 (on YouTube). The following are the specific links:
-        - [https://www.bilibili.com/video/BV1nJ411z7fe/?spm_id_from=333.337.search-card.all.click&vd_source=fe7121321d95c24c1b3a52df81172aea](https://www.bilibili.com/video/BV1nJ411z7fe/?spm_id_from=333.337.search-card.all.click&vd_source=fe7121321d95c24c1b3a52df81172aea)
-        - [https://www.bilibili.com/video/BV1nJ411z7fe/?spm_id_from=333.337.search-card.all.click&vd_source=fe7121321d95c24c1b3a52df81172aea](https://www.bilibili.com/video/BV1nJ411z7fe/?spm_id_from=333.337.search-card.all.click&vd_source=fe7121321d95c24c1b3a52df81172aea)
-        - [https://www.youtube.com/watch?v=dJYGatp4SvA&list=PL5-TkQAfAZFbzxjBHtzdVCWE0Zbhomg7r&index=1](https://www.youtube.com/watch?v=dJYGatp4SvA&list=PL5-TkQAfAZFbzxjBHtzdVCWE0Zbhomg7r&index=1)
+        - [https://www.bilibili.com/video/BV1nJ411z7fe/?spm_id_from=333.337.search-card.all.click&vd_source=fe7121321d95c24c1b3a52df81172aea]
         - [https://www.youtube.com/watch?v=dJYGatp4SvA&list=PL5-TkQAfAZFbzxjBHtzdVCWE0Zbhomg7r&index=1](https://www.youtube.com/watch?v=dJYGatp4SvA&list=PL5-TkQAfAZFbzxjBHtzdVCWE0Zbhomg7r&index=1)
     - b站的视频翻译有时是机器翻译，听起来可能会有些晦涩难懂。对于2019年的视频，我借助了edge浏览器的沉浸式翻译插件并结合英文字幕观看，整体体验相对较好。
 The translations of the Bilibili videos are sometimes machine translations, which may sound a bit obscure. For the 2019 videos, I used the immersive translation plugin of the Edge browser and watched them with English subtitles, and the overall experience was relatively good.
-2. **课程资料**：(Lecture material)
+2. **课程资料(Lecture material)**：
     - 课程网站上提供了最新年份的每节课的ppt（遗憾的是，最新年份的视频仅供斯坦福学生访问），同时还有详尽的课程笔记以及丰富的阅读材料。
 The course website provides the PPTs for each lecture of the latest year (unfortunately, the latest year's videos are only accessible to Stanford students). There are also detailed course notes and abundant reading materials.
     - 我的学习方法是先观看视频，再浏览新版ppt，两者在内容上大体没有显著变化。
 My learning method is to watch the videos first and then browse the new PPTs. There are generally no significant changes in the content between the two.
-3. **课程作业**：(Lecture assignments)
+3. **课程作业(Lecture assignments)**：
     - 课程作业主要侧重于熟悉一些基础的机器学习内容、深度学习框架以及pytorch和tensorflow的运用。起初可能会感到困惑，但随着学习的深入，思路会逐渐清晰。
 The course assignments mainly focus on familiarizing with some basic machine learning content, deep learning frameworks, and the application of PyTorch and TensorFlow. At first, you may feel confused, but as you study further, your thinking will gradually become clear.
     - 做作业遇到问题时，可以参考ppt中的相关部分，或者查阅课程笔记。
